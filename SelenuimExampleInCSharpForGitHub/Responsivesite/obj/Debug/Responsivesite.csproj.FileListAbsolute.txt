@@ -1,0 +1,11 @@
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\ResponsiveSite.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\ResponsiveSite.pdb
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\Automation.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\WebDriver.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\WebDriver.Support.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\Automation.pdb
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\WebDriver.xml
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\bin\Debug\WebDriver.Support.xml
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\obj\Debug\Responsivesite.csprojResolveAssemblyReference.cache
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\obj\Debug\ResponsiveSite.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\Responsivesite\obj\Debug\ResponsiveSite.pdb

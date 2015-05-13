@@ -1,0 +1,13 @@
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\ResponsiveSiteTestCases.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\ResponsiveSiteTestCases.pdb
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\Automation.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\ResponsiveSite.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\WebDriver.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\WebDriver.Support.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\Automation.pdb
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\ResponsiveSite.pdb
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\WebDriver.xml
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\bin\Debug\WebDriver.Support.xml
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\obj\Debug\ResponsiveSiteTestCases.csprojResolveAssemblyReference.cache
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\obj\Debug\ResponsiveSiteTestCases.dll
+c:\users\knelson\documents\visual studio 2013\Projects\SelenuimExampleInCSharpForGitHub\ResponsiveSiteTestCases\obj\Debug\ResponsiveSiteTestCases.pdb
